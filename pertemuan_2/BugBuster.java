@@ -3,6 +3,7 @@ class BugBuster {
         int bilangan;
         bilangan = 5;
         //menampilkan variabel
+        
         System.out.println(bilangan);
     }
 }

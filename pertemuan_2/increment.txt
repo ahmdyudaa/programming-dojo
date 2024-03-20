@@ -1,0 +1,3 @@
+Apa perbedaan B++; dan ++B;?
+B++ adalah post-increment, pada post increment nilai akan diambil dulu oleh variabel setelah itu baru ditambahkan dengan 1
+++B adalah pre-increment, pada pre increment nilai akan ditambahkan dulu baru diambil oleh variabel yang menyimpnannya 
